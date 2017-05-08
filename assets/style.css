@@ -1,0 +1,106 @@
+body {
+    display: table-cell;
+    margin: auto;
+	
+}
+
+h3{
+	margin-left: 20px;
+}
+
+#val{/*llama el id val*/
+	margin-left:50px;
+	margin-top: 25px;
+}
+
+#sumarTexto{/*llama el id sumarTexto*/
+	margin-left:50px;/*margen de la izquierda*/
+	margin-top: 25px;/*margen de arriba*/
+}
+
+#coment{/*llama el id coment*/
+	margin-left:50px;/*margen de la izquierda*/
+	margin-top: 25px;/*margen de arriba*/
+}
+
+#corazon{
+	margin-left: 350px;
+}
+#caja{
+	margin-left: 355px;
+}
+#imgvale{
+	margin-left: 30px;
+}
+
+
+body {
+    display: table-cell;
+    margin: auto;
+	
+}
+
+h3{
+	margin-left: 20px;
+}
+
+#trini{/*llama el id val*/
+	margin-left:50px;
+	margin-top: 25px;
+}
+
+#sumarTexto{/*llama el id sumarTexto*/
+	margin-left:50px;/*margen de la izquierda*/
+	margin-top: 25px;/*margen de arriba*/
+}
+
+#coment{/*llama el id coment*/
+	margin-left:50px;/*margen de la izquierda*/
+	margin-top: 25px;/*margen de arriba*/
+}
+
+#corazon{
+	margin-left: 350px;
+}
+#caja{
+	margin-left: 355px;
+}
+#imgtrini{
+	margin-left: 30px;
+}
+
+body {
+    display: table-cell;
+    margin: auto;
+	
+}
+
+h3{
+	margin-left: 20px;
+}
+
+#diana{/*llama el id val*/
+	margin-left:50px;
+	margin-top: 25px;
+}
+
+#sumarTexto{/*llama el id sumarTexto*/
+	margin-left:50px;/*margen de la izquierda*/
+	margin-top: 25px;/*margen de arriba*/
+}
+
+#coment{/*llama el id coment*/
+	margin-left:50px;/*margen de la izquierda*/
+	margin-top: 25px;/*margen de arriba*/
+}
+
+#corazon{
+	margin-left: 350px;
+}
+#caja{
+	margin-left: 355px;
+}
+#imgdiana{
+	margin-left: 30px;
+}
+
